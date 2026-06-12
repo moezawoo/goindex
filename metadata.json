@@ -1,0 +1,6 @@
+{
+  "name": "KinoMM Movie Index",
+  "description": "KinoMM Movie Index - Every Movie. One Place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
